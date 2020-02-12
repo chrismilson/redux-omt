@@ -3,7 +3,7 @@ const path = require('path')
 module.exports = {
   output: {
     path: path.resolve(__dirname, 'lib'),
-    libraryTarget: 'commonjs2'
+    libraryTarget: 'commonjs'
   },
   module: {
     rules: [
