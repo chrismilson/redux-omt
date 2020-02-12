@@ -2,8 +2,8 @@
   "name": "redux-omt",
   "version": "0.0.0",
   "description": "Wraps comlink and immerJS for moving redux off the main thread",
-  "main": "index.js",
   "scripts": {
+    "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
