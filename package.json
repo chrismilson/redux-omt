@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chrismilson/redux-omt/issues"
   },
-  "homepage": "https://github.com/chrismilson/redux-omt#readme"
+  "homepage": "https://github.com/chrismilson/redux-omt#readme",
+  "dependencies": {
+    "comlink": "^4.2.0",
+    "immer": "^5.3.5"
+  }
 }
